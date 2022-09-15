@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bogumilo&count_private=true&theme=graywhite&showicons=true)]()
 
 <!--
 **bogumilo/bogumilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
