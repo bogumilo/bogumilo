@@ -1,10 +1,11 @@
 # Hey, I'm Paul.
 
 ### 🧑‍💻 I deal with data and business intelligence
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bogumilo&count_private=true&theme=graywhite&showicons=true)]()
+![Bogumiło github streak](https://github-readme-streak-stats.herokuapp.com/?user=bogumilo&theme=graywhite&include_all_commits=true&count_private=true&showicons=true)
 
-- 🔭 I’m currently working on **end-to-end MLops**
-- 🌱 I’m currently learning **prompt engineering**
+
+- 🔭 I’m currently working on **data modeling**
+- 🌱 I’m currently learning **CI/CD in analytics engineering**
 - 👯 I’m looking to collaborate on **stable diffusion projects**
 - 💬 Ask me about **[SQL recipes collection](https://gist.github.com/bogumilo)**
 
